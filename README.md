@@ -1,4 +1,4 @@
-# BIT2205-Object-Oriented-Programming-2
+# Student-Registration-and-User-Management-System-Illustrating-Object-Oriented-Programming
 This mini project demonstrates the use of Object-Oriented Programming concepts to create a user account, login functionality, and a student registration system. It uses the SQLite database for data storage and the PyQt5 module for designing the graphical user interface. 
 #Introduction:
 This user manual provides step-by-step instructions for using the Python mini project that facilitates user account creation, login, and student registration. The project uses the SQLite database for data storage and the PyQt5 module for user interface design. The project employs Object-Oriented Programming concepts to enhance modularity and maintainability.
